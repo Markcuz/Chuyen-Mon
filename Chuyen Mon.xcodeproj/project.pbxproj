@@ -1,0 +1,587 @@
+// !$*UTF8*$!
+{
+	archiveVersion = 1;
+	classes = {
+	};
+	objectVersion = 46;
+	objects = {
+
+/* Begin PBXBuildFile section */
+		032559F71CDC43470002198E /* SongTableViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 032559F61CDC43470002198E /* SongTableViewController.swift */; };
+		032559F91CDC541C0002198E /* Music in Resources */ = {isa = PBXBuildFile; fileRef = 032559F81CDC541C0002198E /* Music */; };
+		032559FB1CDC77E80002198E /* KnotViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 032559FA1CDC77E80002198E /* KnotViewController.swift */; };
+		032DBB8C1CDA5738006DE1E3 /* Knot.swift in Sources */ = {isa = PBXBuildFile; fileRef = 032DBB8B1CDA5738006DE1E3 /* Knot.swift */; };
+		032DBB8D1CDA5738006DE1E3 /* Knot.swift in Sources */ = {isa = PBXBuildFile; fileRef = 032DBB8B1CDA5738006DE1E3 /* Knot.swift */; };
+		032DBB8E1CDA5738006DE1E3 /* Knot.swift in Sources */ = {isa = PBXBuildFile; fileRef = 032DBB8B1CDA5738006DE1E3 /* Knot.swift */; };
+		0335149A1CD9023200CDB727 /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 033514991CD9023200CDB727 /* AppDelegate.swift */; };
+		033514A11CD9023200CDB727 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 0335149F1CD9023200CDB727 /* Main.storyboard */; };
+		033514A31CD9023200CDB727 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 033514A21CD9023200CDB727 /* Assets.xcassets */; };
+		033514A61CD9023200CDB727 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 033514A41CD9023200CDB727 /* LaunchScreen.storyboard */; };
+		033514B11CD9023200CDB727 /* Chuyen_MonTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 033514B01CD9023200CDB727 /* Chuyen_MonTests.swift */; };
+		033514BC1CD9023200CDB727 /* Chuyen_MonUITests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 033514BB1CD9023200CDB727 /* Chuyen_MonUITests.swift */; };
+		033514CA1CDA446200CDB727 /* KnotTableViewCell.swift in Sources */ = {isa = PBXBuildFile; fileRef = 033514C91CDA446200CDB727 /* KnotTableViewCell.swift */; };
+		033514CE1CDA4AE900CDB727 /* KnotTableViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 033514CD1CDA4AE900CDB727 /* KnotTableViewController.swift */; };
+		033514D01CDA4C9100CDB727 /* RatingControl.swift in Sources */ = {isa = PBXBuildFile; fileRef = 033514CF1CDA4C9100CDB727 /* RatingControl.swift */; };
+		034D32031CDBB8A6007A3BF0 /* PDFTableViewCell.swift in Sources */ = {isa = PBXBuildFile; fileRef = 034D32021CDBB8A6007A3BF0 /* PDFTableViewCell.swift */; };
+		034D32051CDBBE68007A3BF0 /* PDFViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 034D32041CDBBE68007A3BF0 /* PDFViewController.swift */; };
+		034D32071CDC2DB2007A3BF0 /* ScoutsTableViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 034D32061CDC2DB2007A3BF0 /* ScoutsTableViewController.swift */; };
+		03AD2F731CDB96CA00982A5C /* SongDisplayViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 03AD2F721CDB96CA00982A5C /* SongDisplayViewController.swift */; };
+		03AD2F751CDB9CA000982A5C /* Documents in Resources */ = {isa = PBXBuildFile; fileRef = 03AD2F741CDB9CA000982A5C /* Documents */; };
+		03AD2F771CDBA46900982A5C /* PDF.swift in Sources */ = {isa = PBXBuildFile; fileRef = 03AD2F761CDBA46900982A5C /* PDF.swift */; };
+		03F728891CDBADB0008584E9 /* NQQCTableViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 03F728881CDBADB0008584E9 /* NQQCTableViewController.swift */; };
+/* End PBXBuildFile section */
+
+/* Begin PBXContainerItemProxy section */
+		033514AD1CD9023200CDB727 /* PBXContainerItemProxy */ = {
+			isa = PBXContainerItemProxy;
+			containerPortal = 0335148E1CD9023200CDB727 /* Project object */;
+			proxyType = 1;
+			remoteGlobalIDString = 033514951CD9023200CDB727;
+			remoteInfo = "Chuyen Mon";
+		};
+		033514B81CD9023200CDB727 /* PBXContainerItemProxy */ = {
+			isa = PBXContainerItemProxy;
+			containerPortal = 0335148E1CD9023200CDB727 /* Project object */;
+			proxyType = 1;
+			remoteGlobalIDString = 033514951CD9023200CDB727;
+			remoteInfo = "Chuyen Mon";
+		};
+/* End PBXContainerItemProxy section */
+
+/* Begin PBXFileReference section */
+		032559F61CDC43470002198E /* SongTableViewController.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = SongTableViewController.swift; sourceTree = "<group>"; };
+		032559F81CDC541C0002198E /* Music */ = {isa = PBXFileReference; lastKnownFileType = folder; path = Music; sourceTree = "<group>"; };
+		032559FA1CDC77E80002198E /* KnotViewController.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = KnotViewController.swift; sourceTree = "<group>"; };
+		032DBB8B1CDA5738006DE1E3 /* Knot.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = Knot.swift; sourceTree = "<group>"; };
+		033514961CD9023200CDB727 /* Chuyen Mon.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = "Chuyen Mon.app"; sourceTree = BUILT_PRODUCTS_DIR; };
+		033514991CD9023200CDB727 /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
+		033514A01CD9023200CDB727 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/Main.storyboard; sourceTree = "<group>"; };
+		033514A21CD9023200CDB727 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
+		033514A51CD9023200CDB727 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
+		033514A71CD9023200CDB727 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		033514AC1CD9023200CDB727 /* Chuyen MonTests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = "Chuyen MonTests.xctest"; sourceTree = BUILT_PRODUCTS_DIR; };
+		033514B01CD9023200CDB727 /* Chuyen_MonTests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Chuyen_MonTests.swift; sourceTree = "<group>"; };
+		033514B21CD9023200CDB727 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		033514B71CD9023200CDB727 /* Chuyen MonUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = "Chuyen MonUITests.xctest"; sourceTree = BUILT_PRODUCTS_DIR; };
+		033514BB1CD9023200CDB727 /* Chuyen_MonUITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Chuyen_MonUITests.swift; sourceTree = "<group>"; };
+		033514BD1CD9023200CDB727 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		033514C91CDA446200CDB727 /* KnotTableViewCell.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = KnotTableViewCell.swift; sourceTree = "<group>"; };
+		033514CD1CDA4AE900CDB727 /* KnotTableViewController.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = KnotTableViewController.swift; sourceTree = "<group>"; };
+		033514CF1CDA4C9100CDB727 /* RatingControl.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = RatingControl.swift; sourceTree = "<group>"; };
+		034D32021CDBB8A6007A3BF0 /* PDFTableViewCell.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = PDFTableViewCell.swift; sourceTree = "<group>"; };
+		034D32041CDBBE68007A3BF0 /* PDFViewController.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; name = PDFViewController.swift; path = "Chuyen Mon/PDFViewController.swift"; sourceTree = "<group>"; };
+		034D32061CDC2DB2007A3BF0 /* ScoutsTableViewController.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; name = ScoutsTableViewController.swift; path = "Chuyen Mon/ScoutsTableViewController.swift"; sourceTree = "<group>"; };
+		03AD2F721CDB96CA00982A5C /* SongDisplayViewController.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; name = SongDisplayViewController.swift; path = "Chuyen Mon/SongDisplayViewController.swift"; sourceTree = "<group>"; };
+		03AD2F741CDB9CA000982A5C /* Documents */ = {isa = PBXFileReference; lastKnownFileType = folder; path = Documents; sourceTree = "<group>"; };
+		03AD2F761CDBA46900982A5C /* PDF.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; name = PDF.swift; path = "Chuyen Mon/PDF.swift"; sourceTree = "<group>"; };
+		03F728881CDBADB0008584E9 /* NQQCTableViewController.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; name = NQQCTableViewController.swift; path = "Chuyen Mon/NQQCTableViewController.swift"; sourceTree = "<group>"; };
+/* End PBXFileReference section */
+
+/* Begin PBXFrameworksBuildPhase section */
+		033514931CD9023200CDB727 /* Frameworks */ = {
+			isa = PBXFrameworksBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		033514A91CD9023200CDB727 /* Frameworks */ = {
+			isa = PBXFrameworksBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		033514B41CD9023200CDB727 /* Frameworks */ = {
+			isa = PBXFrameworksBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXFrameworksBuildPhase section */
+
+/* Begin PBXGroup section */
+		0335148D1CD9023200CDB727 = {
+			isa = PBXGroup;
+			children = (
+				032DBB8B1CDA5738006DE1E3 /* Knot.swift */,
+				03AD2F761CDBA46900982A5C /* PDF.swift */,
+				033514C91CDA446200CDB727 /* KnotTableViewCell.swift */,
+				034D32021CDBB8A6007A3BF0 /* PDFTableViewCell.swift */,
+				034D32041CDBBE68007A3BF0 /* PDFViewController.swift */,
+				032559FA1CDC77E80002198E /* KnotViewController.swift */,
+				03AD2F721CDB96CA00982A5C /* SongDisplayViewController.swift */,
+				033514CD1CDA4AE900CDB727 /* KnotTableViewController.swift */,
+				03F728881CDBADB0008584E9 /* NQQCTableViewController.swift */,
+				034D32061CDC2DB2007A3BF0 /* ScoutsTableViewController.swift */,
+				032559F61CDC43470002198E /* SongTableViewController.swift */,
+				033514CF1CDA4C9100CDB727 /* RatingControl.swift */,
+				032559F81CDC541C0002198E /* Music */,
+				03AD2F741CDB9CA000982A5C /* Documents */,
+				033514981CD9023200CDB727 /* Chuyen Mon */,
+				033514AF1CD9023200CDB727 /* Chuyen MonTests */,
+				033514BA1CD9023200CDB727 /* Chuyen MonUITests */,
+				033514971CD9023200CDB727 /* Products */,
+			);
+			sourceTree = "<group>";
+		};
+		033514971CD9023200CDB727 /* Products */ = {
+			isa = PBXGroup;
+			children = (
+				033514961CD9023200CDB727 /* Chuyen Mon.app */,
+				033514AC1CD9023200CDB727 /* Chuyen MonTests.xctest */,
+				033514B71CD9023200CDB727 /* Chuyen MonUITests.xctest */,
+			);
+			name = Products;
+			sourceTree = "<group>";
+		};
+		033514981CD9023200CDB727 /* Chuyen Mon */ = {
+			isa = PBXGroup;
+			children = (
+				033514991CD9023200CDB727 /* AppDelegate.swift */,
+				0335149F1CD9023200CDB727 /* Main.storyboard */,
+				033514A21CD9023200CDB727 /* Assets.xcassets */,
+				033514A41CD9023200CDB727 /* LaunchScreen.storyboard */,
+				033514A71CD9023200CDB727 /* Info.plist */,
+			);
+			path = "Chuyen Mon";
+			sourceTree = "<group>";
+		};
+		033514AF1CD9023200CDB727 /* Chuyen MonTests */ = {
+			isa = PBXGroup;
+			children = (
+				033514B01CD9023200CDB727 /* Chuyen_MonTests.swift */,
+				033514B21CD9023200CDB727 /* Info.plist */,
+			);
+			path = "Chuyen MonTests";
+			sourceTree = "<group>";
+		};
+		033514BA1CD9023200CDB727 /* Chuyen MonUITests */ = {
+			isa = PBXGroup;
+			children = (
+				033514BB1CD9023200CDB727 /* Chuyen_MonUITests.swift */,
+				033514BD1CD9023200CDB727 /* Info.plist */,
+			);
+			path = "Chuyen MonUITests";
+			sourceTree = "<group>";
+		};
+/* End PBXGroup section */
+
+/* Begin PBXNativeTarget section */
+		033514951CD9023200CDB727 /* Chuyen Mon */ = {
+			isa = PBXNativeTarget;
+			buildConfigurationList = 033514C01CD9023200CDB727 /* Build configuration list for PBXNativeTarget "Chuyen Mon" */;
+			buildPhases = (
+				033514921CD9023200CDB727 /* Sources */,
+				033514931CD9023200CDB727 /* Frameworks */,
+				033514941CD9023200CDB727 /* Resources */,
+			);
+			buildRules = (
+			);
+			dependencies = (
+			);
+			name = "Chuyen Mon";
+			productName = "Chuyen Mon";
+			productReference = 033514961CD9023200CDB727 /* Chuyen Mon.app */;
+			productType = "com.apple.product-type.application";
+		};
+		033514AB1CD9023200CDB727 /* Chuyen MonTests */ = {
+			isa = PBXNativeTarget;
+			buildConfigurationList = 033514C31CD9023200CDB727 /* Build configuration list for PBXNativeTarget "Chuyen MonTests" */;
+			buildPhases = (
+				033514A81CD9023200CDB727 /* Sources */,
+				033514A91CD9023200CDB727 /* Frameworks */,
+				033514AA1CD9023200CDB727 /* Resources */,
+			);
+			buildRules = (
+			);
+			dependencies = (
+				033514AE1CD9023200CDB727 /* PBXTargetDependency */,
+			);
+			name = "Chuyen MonTests";
+			productName = "Chuyen MonTests";
+			productReference = 033514AC1CD9023200CDB727 /* Chuyen MonTests.xctest */;
+			productType = "com.apple.product-type.bundle.unit-test";
+		};
+		033514B61CD9023200CDB727 /* Chuyen MonUITests */ = {
+			isa = PBXNativeTarget;
+			buildConfigurationList = 033514C61CD9023200CDB727 /* Build configuration list for PBXNativeTarget "Chuyen MonUITests" */;
+			buildPhases = (
+				033514B31CD9023200CDB727 /* Sources */,
+				033514B41CD9023200CDB727 /* Frameworks */,
+				033514B51CD9023200CDB727 /* Resources */,
+			);
+			buildRules = (
+			);
+			dependencies = (
+				033514B91CD9023200CDB727 /* PBXTargetDependency */,
+			);
+			name = "Chuyen MonUITests";
+			productName = "Chuyen MonUITests";
+			productReference = 033514B71CD9023200CDB727 /* Chuyen MonUITests.xctest */;
+			productType = "com.apple.product-type.bundle.ui-testing";
+		};
+/* End PBXNativeTarget section */
+
+/* Begin PBXProject section */
+		0335148E1CD9023200CDB727 /* Project object */ = {
+			isa = PBXProject;
+			attributes = {
+				LastSwiftUpdateCheck = 0730;
+				LastUpgradeCheck = 0830;
+				ORGANIZATIONNAME = "Marcus Pham";
+				TargetAttributes = {
+					033514951CD9023200CDB727 = {
+						CreatedOnToolsVersion = 7.3;
+						DevelopmentTeam = R7FPC74UHT;
+						LastSwiftMigration = 0830;
+					};
+					033514AB1CD9023200CDB727 = {
+						CreatedOnToolsVersion = 7.3;
+						LastSwiftMigration = 0830;
+						TestTargetID = 033514951CD9023200CDB727;
+					};
+					033514B61CD9023200CDB727 = {
+						CreatedOnToolsVersion = 7.3;
+						LastSwiftMigration = 0830;
+						TestTargetID = 033514951CD9023200CDB727;
+					};
+				};
+			};
+			buildConfigurationList = 033514911CD9023200CDB727 /* Build configuration list for PBXProject "Chuyen Mon" */;
+			compatibilityVersion = "Xcode 3.2";
+			developmentRegion = English;
+			hasScannedForEncodings = 0;
+			knownRegions = (
+				en,
+				Base,
+			);
+			mainGroup = 0335148D1CD9023200CDB727;
+			productRefGroup = 033514971CD9023200CDB727 /* Products */;
+			projectDirPath = "";
+			projectRoot = "";
+			targets = (
+				033514951CD9023200CDB727 /* Chuyen Mon */,
+				033514AB1CD9023200CDB727 /* Chuyen MonTests */,
+				033514B61CD9023200CDB727 /* Chuyen MonUITests */,
+			);
+		};
+/* End PBXProject section */
+
+/* Begin PBXResourcesBuildPhase section */
+		033514941CD9023200CDB727 /* Resources */ = {
+			isa = PBXResourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				033514A61CD9023200CDB727 /* LaunchScreen.storyboard in Resources */,
+				032559F91CDC541C0002198E /* Music in Resources */,
+				033514A31CD9023200CDB727 /* Assets.xcassets in Resources */,
+				033514A11CD9023200CDB727 /* Main.storyboard in Resources */,
+				03AD2F751CDB9CA000982A5C /* Documents in Resources */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		033514AA1CD9023200CDB727 /* Resources */ = {
+			isa = PBXResourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		033514B51CD9023200CDB727 /* Resources */ = {
+			isa = PBXResourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXResourcesBuildPhase section */
+
+/* Begin PBXSourcesBuildPhase section */
+		033514921CD9023200CDB727 /* Sources */ = {
+			isa = PBXSourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				034D32031CDBB8A6007A3BF0 /* PDFTableViewCell.swift in Sources */,
+				034D32051CDBBE68007A3BF0 /* PDFViewController.swift in Sources */,
+				034D32071CDC2DB2007A3BF0 /* ScoutsTableViewController.swift in Sources */,
+				032DBB8C1CDA5738006DE1E3 /* Knot.swift in Sources */,
+				032559FB1CDC77E80002198E /* KnotViewController.swift in Sources */,
+				032559F71CDC43470002198E /* SongTableViewController.swift in Sources */,
+				033514CA1CDA446200CDB727 /* KnotTableViewCell.swift in Sources */,
+				03F728891CDBADB0008584E9 /* NQQCTableViewController.swift in Sources */,
+				0335149A1CD9023200CDB727 /* AppDelegate.swift in Sources */,
+				033514CE1CDA4AE900CDB727 /* KnotTableViewController.swift in Sources */,
+				033514D01CDA4C9100CDB727 /* RatingControl.swift in Sources */,
+				03AD2F771CDBA46900982A5C /* PDF.swift in Sources */,
+				03AD2F731CDB96CA00982A5C /* SongDisplayViewController.swift in Sources */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		033514A81CD9023200CDB727 /* Sources */ = {
+			isa = PBXSourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				033514B11CD9023200CDB727 /* Chuyen_MonTests.swift in Sources */,
+				032DBB8D1CDA5738006DE1E3 /* Knot.swift in Sources */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		033514B31CD9023200CDB727 /* Sources */ = {
+			isa = PBXSourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				033514BC1CD9023200CDB727 /* Chuyen_MonUITests.swift in Sources */,
+				032DBB8E1CDA5738006DE1E3 /* Knot.swift in Sources */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXSourcesBuildPhase section */
+
+/* Begin PBXTargetDependency section */
+		033514AE1CD9023200CDB727 /* PBXTargetDependency */ = {
+			isa = PBXTargetDependency;
+			target = 033514951CD9023200CDB727 /* Chuyen Mon */;
+			targetProxy = 033514AD1CD9023200CDB727 /* PBXContainerItemProxy */;
+		};
+		033514B91CD9023200CDB727 /* PBXTargetDependency */ = {
+			isa = PBXTargetDependency;
+			target = 033514951CD9023200CDB727 /* Chuyen Mon */;
+			targetProxy = 033514B81CD9023200CDB727 /* PBXContainerItemProxy */;
+		};
+/* End PBXTargetDependency section */
+
+/* Begin PBXVariantGroup section */
+		0335149F1CD9023200CDB727 /* Main.storyboard */ = {
+			isa = PBXVariantGroup;
+			children = (
+				033514A01CD9023200CDB727 /* Base */,
+			);
+			name = Main.storyboard;
+			sourceTree = "<group>";
+		};
+		033514A41CD9023200CDB727 /* LaunchScreen.storyboard */ = {
+			isa = PBXVariantGroup;
+			children = (
+				033514A51CD9023200CDB727 /* Base */,
+			);
+			name = LaunchScreen.storyboard;
+			sourceTree = "<group>";
+		};
+/* End PBXVariantGroup section */
+
+/* Begin XCBuildConfiguration section */
+		033514BE1CD9023200CDB727 /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ALWAYS_SEARCH_USER_PATHS = NO;
+				CLANG_ANALYZER_NONNULL = YES;
+				CLANG_CXX_LANGUAGE_STANDARD = "gnu++0x";
+				CLANG_CXX_LIBRARY = "libc++";
+				CLANG_ENABLE_MODULES = YES;
+				CLANG_ENABLE_OBJC_ARC = YES;
+				CLANG_WARN_BOOL_CONVERSION = YES;
+				CLANG_WARN_CONSTANT_CONVERSION = YES;
+				CLANG_WARN_DIRECT_OBJC_ISA_USAGE = YES_ERROR;
+				CLANG_WARN_EMPTY_BODY = YES;
+				CLANG_WARN_ENUM_CONVERSION = YES;
+				CLANG_WARN_INFINITE_RECURSION = YES;
+				CLANG_WARN_INT_CONVERSION = YES;
+				CLANG_WARN_OBJC_ROOT_CLASS = YES_ERROR;
+				CLANG_WARN_SUSPICIOUS_MOVE = YES;
+				CLANG_WARN_UNREACHABLE_CODE = YES;
+				CLANG_WARN__DUPLICATE_METHOD_MATCH = YES;
+				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "iPhone Developer";
+				COPY_PHASE_STRIP = NO;
+				DEBUG_INFORMATION_FORMAT = dwarf;
+				ENABLE_STRICT_OBJC_MSGSEND = YES;
+				ENABLE_TESTABILITY = YES;
+				GCC_C_LANGUAGE_STANDARD = gnu99;
+				GCC_DYNAMIC_NO_PIC = NO;
+				GCC_NO_COMMON_BLOCKS = YES;
+				GCC_OPTIMIZATION_LEVEL = 0;
+				GCC_PREPROCESSOR_DEFINITIONS = (
+					"DEBUG=1",
+					"$(inherited)",
+				);
+				GCC_WARN_64_TO_32_BIT_CONVERSION = YES;
+				GCC_WARN_ABOUT_RETURN_TYPE = YES_ERROR;
+				GCC_WARN_UNDECLARED_SELECTOR = YES;
+				GCC_WARN_UNINITIALIZED_AUTOS = YES_AGGRESSIVE;
+				GCC_WARN_UNUSED_FUNCTION = YES;
+				GCC_WARN_UNUSED_VARIABLE = YES;
+				IPHONEOS_DEPLOYMENT_TARGET = 9.3;
+				MTL_ENABLE_DEBUG_INFO = YES;
+				ONLY_ACTIVE_ARCH = YES;
+				SDKROOT = iphoneos;
+				SWIFT_OPTIMIZATION_LEVEL = "-Onone";
+				TARGETED_DEVICE_FAMILY = "1,2";
+			};
+			name = Debug;
+		};
+		033514BF1CD9023200CDB727 /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ALWAYS_SEARCH_USER_PATHS = NO;
+				CLANG_ANALYZER_NONNULL = YES;
+				CLANG_CXX_LANGUAGE_STANDARD = "gnu++0x";
+				CLANG_CXX_LIBRARY = "libc++";
+				CLANG_ENABLE_MODULES = YES;
+				CLANG_ENABLE_OBJC_ARC = YES;
+				CLANG_WARN_BOOL_CONVERSION = YES;
+				CLANG_WARN_CONSTANT_CONVERSION = YES;
+				CLANG_WARN_DIRECT_OBJC_ISA_USAGE = YES_ERROR;
+				CLANG_WARN_EMPTY_BODY = YES;
+				CLANG_WARN_ENUM_CONVERSION = YES;
+				CLANG_WARN_INFINITE_RECURSION = YES;
+				CLANG_WARN_INT_CONVERSION = YES;
+				CLANG_WARN_OBJC_ROOT_CLASS = YES_ERROR;
+				CLANG_WARN_SUSPICIOUS_MOVE = YES;
+				CLANG_WARN_UNREACHABLE_CODE = YES;
+				CLANG_WARN__DUPLICATE_METHOD_MATCH = YES;
+				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "iPhone Developer";
+				COPY_PHASE_STRIP = NO;
+				DEBUG_INFORMATION_FORMAT = "dwarf-with-dsym";
+				ENABLE_NS_ASSERTIONS = NO;
+				ENABLE_STRICT_OBJC_MSGSEND = YES;
+				GCC_C_LANGUAGE_STANDARD = gnu99;
+				GCC_NO_COMMON_BLOCKS = YES;
+				GCC_WARN_64_TO_32_BIT_CONVERSION = YES;
+				GCC_WARN_ABOUT_RETURN_TYPE = YES_ERROR;
+				GCC_WARN_UNDECLARED_SELECTOR = YES;
+				GCC_WARN_UNINITIALIZED_AUTOS = YES_AGGRESSIVE;
+				GCC_WARN_UNUSED_FUNCTION = YES;
+				GCC_WARN_UNUSED_VARIABLE = YES;
+				IPHONEOS_DEPLOYMENT_TARGET = 9.3;
+				MTL_ENABLE_DEBUG_INFO = NO;
+				SDKROOT = iphoneos;
+				SWIFT_OPTIMIZATION_LEVEL = "-Owholemodule";
+				TARGETED_DEVICE_FAMILY = "1,2";
+				VALIDATE_PRODUCT = YES;
+			};
+			name = Release;
+		};
+		033514C11CD9023200CDB727 /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
+				CODE_SIGN_IDENTITY = "iPhone Developer";
+				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "iPhone Developer";
+				INFOPLIST_FILE = "Chuyen Mon/Info.plist";
+				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
+				PRODUCT_BUNDLE_IDENTIFIER = "GDPT.Chuyen-Mon";
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				PROVISIONING_PROFILE = "";
+				SWIFT_VERSION = 3.0;
+			};
+			name = Debug;
+		};
+		033514C21CD9023200CDB727 /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
+				CODE_SIGN_IDENTITY = "iPhone Developer";
+				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "iPhone Developer";
+				INFOPLIST_FILE = "Chuyen Mon/Info.plist";
+				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
+				PRODUCT_BUNDLE_IDENTIFIER = "GDPT.Chuyen-Mon";
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				PROVISIONING_PROFILE = "";
+				SWIFT_VERSION = 3.0;
+			};
+			name = Release;
+		};
+		033514C41CD9023200CDB727 /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				BUNDLE_LOADER = "$(TEST_HOST)";
+				INFOPLIST_FILE = "Chuyen MonTests/Info.plist";
+				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks @loader_path/Frameworks";
+				PRODUCT_BUNDLE_IDENTIFIER = "GDPT.Chuyen-MonTests";
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				SWIFT_VERSION = 3.0;
+				TEST_HOST = "$(BUILT_PRODUCTS_DIR)/Chuyen Mon.app/Chuyen Mon";
+			};
+			name = Debug;
+		};
+		033514C51CD9023200CDB727 /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				BUNDLE_LOADER = "$(TEST_HOST)";
+				INFOPLIST_FILE = "Chuyen MonTests/Info.plist";
+				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks @loader_path/Frameworks";
+				PRODUCT_BUNDLE_IDENTIFIER = "GDPT.Chuyen-MonTests";
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				SWIFT_VERSION = 3.0;
+				TEST_HOST = "$(BUILT_PRODUCTS_DIR)/Chuyen Mon.app/Chuyen Mon";
+			};
+			name = Release;
+		};
+		033514C71CD9023200CDB727 /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				INFOPLIST_FILE = "Chuyen MonUITests/Info.plist";
+				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks @loader_path/Frameworks";
+				PRODUCT_BUNDLE_IDENTIFIER = "GDPT.Chuyen-MonUITests";
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				SWIFT_VERSION = 3.0;
+				TEST_TARGET_NAME = "Chuyen Mon";
+			};
+			name = Debug;
+		};
+		033514C81CD9023200CDB727 /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				INFOPLIST_FILE = "Chuyen MonUITests/Info.plist";
+				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks @loader_path/Frameworks";
+				PRODUCT_BUNDLE_IDENTIFIER = "GDPT.Chuyen-MonUITests";
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				SWIFT_VERSION = 3.0;
+				TEST_TARGET_NAME = "Chuyen Mon";
+			};
+			name = Release;
+		};
+/* End XCBuildConfiguration section */
+
+/* Begin XCConfigurationList section */
+		033514911CD9023200CDB727 /* Build configuration list for PBXProject "Chuyen Mon" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				033514BE1CD9023200CDB727 /* Debug */,
+				033514BF1CD9023200CDB727 /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+		033514C01CD9023200CDB727 /* Build configuration list for PBXNativeTarget "Chuyen Mon" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				033514C11CD9023200CDB727 /* Debug */,
+				033514C21CD9023200CDB727 /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+		033514C31CD9023200CDB727 /* Build configuration list for PBXNativeTarget "Chuyen MonTests" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				033514C41CD9023200CDB727 /* Debug */,
+				033514C51CD9023200CDB727 /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+		033514C61CD9023200CDB727 /* Build configuration list for PBXNativeTarget "Chuyen MonUITests" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				033514C71CD9023200CDB727 /* Debug */,
+				033514C81CD9023200CDB727 /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+/* End XCConfigurationList section */
+	};
+	rootObject = 0335148E1CD9023200CDB727 /* Project object */;
+}
