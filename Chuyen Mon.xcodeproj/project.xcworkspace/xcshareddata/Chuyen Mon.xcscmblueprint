@@ -1,0 +1,30 @@
+{
+  "DVTSourceControlWorkspaceBlueprintPrimaryRemoteRepositoryKey" : "8BF7AAE340A65C3BF3D7A57A9525F0AEAEEDD614",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyRepositoryLocationsKey" : {
+
+  },
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyStatesKey" : {
+    "8BF7AAE340A65C3BF3D7A57A9525F0AEAEEDD614" : 9223372036854775807,
+    "C933B7F9234517DDF5D7B1A23BBCA25C409E2BBE" : 9223372036854775807
+  },
+  "DVTSourceControlWorkspaceBlueprintIdentifierKey" : "273309AD-974E-46DF-B410-913B218F6FB6",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyPathsKey" : {
+    "8BF7AAE340A65C3BF3D7A57A9525F0AEAEEDD614" : "Chuyen-Mon\/",
+    "C933B7F9234517DDF5D7B1A23BBCA25C409E2BBE" : "Chuyen-Mon\/Documents\/"
+  },
+  "DVTSourceControlWorkspaceBlueprintNameKey" : "Chuyen Mon",
+  "DVTSourceControlWorkspaceBlueprintVersion" : 204,
+  "DVTSourceControlWorkspaceBlueprintRelativePathToProjectKey" : "Chuyen Mon.xcodeproj",
+  "DVTSourceControlWorkspaceBlueprintRemoteRepositoriesKey" : [
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "https:\/\/github.com\/Markcuz\/Chuyen-Mon.git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "8BF7AAE340A65C3BF3D7A57A9525F0AEAEEDD614"
+    },
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "https:\/\/github.com\/Markcuz\/Documents.git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "C933B7F9234517DDF5D7B1A23BBCA25C409E2BBE"
+    }
+  ]
+}

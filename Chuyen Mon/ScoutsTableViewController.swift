@@ -15,7 +15,7 @@ class ScoutsTableViewController: UITableViewController {
     override func viewDidLoad() {
         super.viewDidLoad()
         
-        loadDocs()
+        //loadDocs()
     }
     
     func loadDocs() {

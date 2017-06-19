@@ -25,6 +25,7 @@
 		034D32031CDBB8A6007A3BF0 /* PDFTableViewCell.swift in Sources */ = {isa = PBXBuildFile; fileRef = 034D32021CDBB8A6007A3BF0 /* PDFTableViewCell.swift */; };
 		034D32051CDBBE68007A3BF0 /* PDFViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 034D32041CDBBE68007A3BF0 /* PDFViewController.swift */; };
 		034D32071CDC2DB2007A3BF0 /* ScoutsTableViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 034D32061CDC2DB2007A3BF0 /* ScoutsTableViewController.swift */; };
+		038D473F1EF774F7001A1DEF /* Morse.swift in Sources */ = {isa = PBXBuildFile; fileRef = 038D473E1EF774F7001A1DEF /* Morse.swift */; };
 		03AD2F731CDB96CA00982A5C /* SongDisplayViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 03AD2F721CDB96CA00982A5C /* SongDisplayViewController.swift */; };
 		03AD2F751CDB9CA000982A5C /* Documents in Resources */ = {isa = PBXBuildFile; fileRef = 03AD2F741CDB9CA000982A5C /* Documents */; };
 		03AD2F771CDBA46900982A5C /* PDF.swift in Sources */ = {isa = PBXBuildFile; fileRef = 03AD2F761CDBA46900982A5C /* PDF.swift */; };
@@ -71,6 +72,7 @@
 		034D32021CDBB8A6007A3BF0 /* PDFTableViewCell.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = PDFTableViewCell.swift; sourceTree = "<group>"; };
 		034D32041CDBBE68007A3BF0 /* PDFViewController.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; name = PDFViewController.swift; path = "Chuyen Mon/PDFViewController.swift"; sourceTree = "<group>"; };
 		034D32061CDC2DB2007A3BF0 /* ScoutsTableViewController.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; name = ScoutsTableViewController.swift; path = "Chuyen Mon/ScoutsTableViewController.swift"; sourceTree = "<group>"; };
+		038D473E1EF774F7001A1DEF /* Morse.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = Morse.swift; sourceTree = "<group>"; };
 		03AD2F721CDB96CA00982A5C /* SongDisplayViewController.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; name = SongDisplayViewController.swift; path = "Chuyen Mon/SongDisplayViewController.swift"; sourceTree = "<group>"; };
 		03AD2F741CDB9CA000982A5C /* Documents */ = {isa = PBXFileReference; lastKnownFileType = folder; path = Documents; sourceTree = "<group>"; };
 		03AD2F761CDBA46900982A5C /* PDF.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; name = PDF.swift; path = "Chuyen Mon/PDF.swift"; sourceTree = "<group>"; };
@@ -105,6 +107,7 @@
 		0335148D1CD9023200CDB727 = {
 			isa = PBXGroup;
 			children = (
+				038D473E1EF774F7001A1DEF /* Morse.swift */,
 				032DBB8B1CDA5738006DE1E3 /* Knot.swift */,
 				03AD2F761CDBA46900982A5C /* PDF.swift */,
 				033514C91CDA446200CDB727 /* KnotTableViewCell.swift */,
@@ -309,6 +312,7 @@
 				032DBB8C1CDA5738006DE1E3 /* Knot.swift in Sources */,
 				032559FB1CDC77E80002198E /* KnotViewController.swift in Sources */,
 				032559F71CDC43470002198E /* SongTableViewController.swift in Sources */,
+				038D473F1EF774F7001A1DEF /* Morse.swift in Sources */,
 				033514CA1CDA446200CDB727 /* KnotTableViewCell.swift in Sources */,
 				03F728891CDBADB0008584E9 /* NQQCTableViewController.swift in Sources */,
 				0335149A1CD9023200CDB727 /* AppDelegate.swift in Sources */,
